@@ -10,8 +10,8 @@ body {
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("pawprint2-01.svg") no-repeat;
-    background-size: cover;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url("pawprint2-01.svg") no-repeat;
+    background-size: cover; 
 }
 
 .margin-top {
@@ -28,11 +28,11 @@ body {
     text-align: center;
 }
 
-.number-email{
+.number-email {
     text-align: center;
 }
 
-h1{
+h1 {
     color: #6746AF;    
 }
 
@@ -58,7 +58,7 @@ img {
     justify-content: space-between;
 }
 
-hr{
+hr {
     border: 0;
 	border-top: 1px solid #6746AF;
 }
