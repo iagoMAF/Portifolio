@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url("pawprint2-01.svg") no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url("/img/pawprint2-01.svg") no-repeat;
     background-size: cover; 
 }
 
